@@ -11,7 +11,7 @@ import com.example.demo.service.HelloWorldService;
      -d '{"name": "Seu Nome", "email": "seu.email@exemplo.com"}'
 *
 *
-*  */gi
+*  */
 @RestController
 @RequestMapping("/hello-world")
 public class HelloWorldController {
